@@ -1,0 +1,16 @@
+body,
+h1 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+nav {
+    color: $dark;
+}
+
+nav-link:active {
+    color: $secondary;
+}
+
+footer {
+    font-family: "Archivo Narrow", sans-serif;
+}
